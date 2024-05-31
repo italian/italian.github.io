@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <h2>My GitHub stats</h2>
+  <h2><a href="https://github.com/italian" title="Перейти к моему GitHub профилю">My GitHub</a> stats</h2>
   <a href="https://git.io/streak-stats">
     <img align="center" src="https://streak-stats.demolab.com/?user=italian" />
   </a>
