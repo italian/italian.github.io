@@ -1,6 +1,18 @@
+<head>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+
+<nav class="navbar">
+    <a href="https://italian.github.io">Home</a>
+    <!-- <a href="#news">News</a> -->
+    <!-- <a href="#contact">Contact Me</a> -->
+    <a href="html/github_stats.html" style="background-color: #ddd; color: black;">My GitHub stats</a>
+</nav>
+
 <div align="center">
 
-    <h2><a href="https://github.com/italian" title="Перейти к моему GitHub профилю">My GitHub</a> stats</h2>
+    <h2><a href="https://github.com/italian" title="Go to my GitHub profile">My GitHub</a> stats</h2>
     <a href="https://git.io/streak-stats">
       <img align="center" src="https://streak-stats.demolab.com/?user=italian" />
     </a>
@@ -21,3 +33,5 @@
     </a>
       
   </div>
+
+  </body>
