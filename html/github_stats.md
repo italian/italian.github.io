@@ -7,7 +7,7 @@
     <a href="https://italian.github.io">Home</a>
     <!-- <a href="#news">News</a> -->
     <!-- <a href="#contact">Contact Me</a> -->
-    <a href="html/github_stats.html" style="background-color: #ddd; color: black;">My GitHub stats</a>
+    <a href="html/github_stats.html" style="background-color: #dda; color: black;">My GitHub stats</a>
 </nav>
 
 <div align="center">
