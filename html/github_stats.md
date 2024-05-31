@@ -5,12 +5,12 @@
 
 <nav class="navbar">
     <a href="https://italian.github.io">Home</a>
-    <!-- <a href="#news">News</a> -->
-    <!-- <a href="#contact">Contact Me</a> -->
-    <a href="html/github_stats.html" style="background-color: #dda; color: black;">My GitHub stats</a>
+    <a href="html/github_stats.html" style="background-color: #dda; color: black;">My GitHub Stats</a>
+    <a href="html/about_me.html">About Me</a>
 </nav>
 
-<div align="center">
+<main>
+  <div align="center">
 
     <h2><a href="https://github.com/italian" title="Go to my GitHub profile">My GitHub</a> stats</h2>
     <a href="https://git.io/streak-stats">
@@ -33,5 +33,5 @@
     </a>
       
   </div>
-
-  </body>
+</main>
+</body>
