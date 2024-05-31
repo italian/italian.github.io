@@ -29,7 +29,7 @@
     </a>
     <br><br>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=italian&theme=high-contrast&height=400&custom_title=Contribution%20Graph&radius=16" />
+      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=italian&theme=high-contrast&height=380&custom_title=Contribution%20Graph&radius=16" />
     </a>
       
   </div>
