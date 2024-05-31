@@ -5,7 +5,7 @@
 
 <nav class="navbar">
     <a href="https://italian.github.io" style="background-color: #dda; color: black;">Home</a>
-    <!-- <a href="#news">Новости</a> -->
+    <!-- <a href="#news">News</a> -->
     <!-- <a href="#contact">Contact Me</a> -->
     <a href="html/github_stats.html">My GitHub stats</a>
 </nav>
