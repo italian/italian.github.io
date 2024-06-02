@@ -35,7 +35,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 document.querySelector('.navbar a[href="pages/github_stats.html"]').textContent = translations.myGithubStats;
                 document.querySelector('.navbar a[href="pages/about_me.html"]').textContent = translations.aboutMe;
                 document.querySelector('h1').textContent = translations.welcomeMessage;
-                document.querySelector('h3').textContent = translations.description;
+
+                let descriptionText = translations.description.replace(/\n/g, '<br>');
+                document.querySelector('h3').innerHTML = descriptionText;
                 // Добавьте аналогичные строки для других элементов, которые нужно перевести
             });
     }
