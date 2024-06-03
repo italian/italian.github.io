@@ -16,7 +16,10 @@
 <main>
   <div align="center">
 
-    <h2 id="githubLink"><a href="https://github.com/italian" title="Go to my GitHub profile" id="githubTitle">My GitHub</a> stats</h2>
+    <h2>
+      <a href="https://github.com/italian" title="Go to my GitHub profile" id="githubTitle">My GitHub</a>
+      <span id="githubLinkText"> stats</span>
+    </h2>
     <a href="https://git.io/streak-stats">
       <img align="center" src="https://streak-stats.demolab.com/?user=italian" />
     </a>
@@ -67,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 // Перевод заголовка и ссылки
                 document.querySelector('#githubTitle').textContent = translations.githubTitle;
                 document.querySelector('#githubTitle').setAttribute('title', translations.githubTitleTooltip);
-                document.querySelector('#githubLink').textContent = translations.githubLink;
+                document.querySelector('#githubLinkText').textContent = translations.githubLinkText;
             });
     }
 
