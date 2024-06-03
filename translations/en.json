@@ -3,5 +3,16 @@
     "myGithubStats": "My GitHub Stats",
     "aboutMe": "About Me",
     "welcomeMessage": "ℌ𝔦 𝔱𝔥𝔢𝔯𝔢, ℑ'𝔪 𝔐𝔞𝔵",
-    "description": "Machine learning engineering student,\nLeading design engineer of induction motors"
+    "description": "Machine learning engineering student,\nLeading design engineer of induction motors",
+
+    "experience": "Experienced design engineer with over 13 years of experience in heavy electrical engineering. I specialise in the design and retrofit of high voltage induction motors from 100kW to 2MW.",
+    "skills": "Professional skills include competences from technical calculations and design to project management and team co-ordination.",
+    "software": "I have in-depth knowledge of CAD software such as Creo Elements/Pro, T-flex. I also have significant experience with Mathcad for technical calculations.",
+    "programming": "I actively apply my programming skills in C#, C and Python to automate workflows and develop customised solutions.",
+    "education": "I am interested in new technologies and am constantly educating myself. I am actively studying machine learning.",
+    "goal": "My goal is to use my skills and knowledge to develop innovative products and solutions in the field of artificial intelligence.",
+
+    "githubTitle": "My GitHub",
+    "githubTitleTooltip": "Go to my GitHub profile",
+    "githubLink": " stats"
 }
