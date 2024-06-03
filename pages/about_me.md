@@ -58,6 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 document.querySelector('.navbar a[href="https://italian.github.io"]').textContent = translations.home;
                 document.querySelector('.navbar a[href="github_stats.html"]').textContent = translations.myGithubStats;
                 document.querySelector('.navbar a[href="about_me.html"]').textContent = translations.aboutMe;
+                document.querySelector('h2').textContent = translations.aboutMe;
 
                 document.querySelector('#experience').textContent = translations.experience;
 
