@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function() {
         fetch(`../translations/${lang}.json`)
      .then(response => response.json())
      .then(translations => {
-                document.querySelector('.navbar a[href="../"]').textContent = translations.home;
+                document.querySelector('.navbar a[href="https://italian.github.io"]').textContent = translations.home;
                 document.querySelector('.navbar a[href="github_stats.html"]').textContent = translations.myGithubStats;
                 document.querySelector('.navbar a[href="about_me.html"]').textContent = translations.aboutMe;
 
