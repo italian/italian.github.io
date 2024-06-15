@@ -7,10 +7,12 @@
     <a href="https://italian.github.io">Home</a>
     <a href="github_stats.html">My GitHub Stats</a>
     <a href="about_me.html" style="background-color: #dda; color: black;">About Me</a>
-    <select id="language-select">
-        <option value="en">English</option>
-        <option value="ru">Русский</option>
-    </select>
+    <div class="navbar-right">
+        <select id="language-select">
+            <option value="en">English</option>
+            <option value="ru">Русский</option>
+        </select>
+    </div>
 </nav>
 <main>
     <h2>About Me</h2>
