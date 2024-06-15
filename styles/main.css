@@ -22,9 +22,10 @@ body {
 }
 
 .navbar-right {
-    display: flex;
+    margin-left: auto;
+    /* display: flex;
     align-items: center;
-    margin-right: 16px;
+    margin-right: 16px; */
 }
 
 #language-select {
@@ -36,6 +37,11 @@ body {
     color: #f2f2f2;
     font-size: 14px;
     /* margin-left: 10px; */
+}
+
+#language-select:hover {
+    background-color: #ddd;
+    color: black;
 }
 
 #language-select:focus {
