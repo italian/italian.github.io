@@ -50,10 +50,14 @@ body {
     color: #f2f2f2;
 }
 
-#language-select:hover,
-#language-select option:hover {
+#language-select:hover {
     background-color: #ddd;
     color: black;
+}
+
+#language-select option:hover {
+    background-color: black;
+    color: #ddd;
 }
 
 #language-select:focus {
