@@ -65,8 +65,8 @@ document.addEventListener('DOMContentLoaded', function() {
         });
 
         options[i].addEventListener('mouseout', function() {
-            this.style.backgroundColor = '#ddd';
-            this.style.color = '#000';
+            this.style.backgroundColor = '#000';
+            this.style.color = '#ddd';
         });
     }
 });
