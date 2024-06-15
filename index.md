@@ -55,5 +55,19 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Загружаем переводы по умолчанию при первой загрузке страницы
     loadTranslations(select.value);
+
+    // Добавляем стилизацию при наведении
+    const options = select.options;
+    for (let i = 0; i < options.length; i++) {
+        options[i].addEventListener('mouseover', function() {
+            this.style.backgroundColor = '#ddd';
+            this.style.color = 'black';
+        });
+
+        options[i].addEventListener('mouseout', function() {
+            this.style.backgroundColor = '#ddd';
+            this.style.color = '#000';
+        });
+    }
 });
 </script>

@@ -56,10 +56,10 @@ body {
     color: black;
 }
 
-#language-select option:hover {
+/* #language-select option:hover {
     background-color: black;
     color: #ddd;
-}
+} */
 
 #language-select:focus {
     outline: none;
